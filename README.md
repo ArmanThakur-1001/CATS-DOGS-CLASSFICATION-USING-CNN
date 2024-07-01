@@ -24,3 +24,6 @@ The dataset can be downloaded from the [Kaggle Dogs vs. Cats dataset](https://ww
 - Matplotlib
 - OpenCV
 - Jupyter Notebook (optional)
+
+Results
+The model achieves an accuracy of X% on the validation set after Y epochs of training.
