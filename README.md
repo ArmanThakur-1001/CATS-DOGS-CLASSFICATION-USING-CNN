@@ -12,7 +12,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 - Making predictions on new images
 
 ## Dataset
-The dataset can be downloaded from the [Kaggle Dogs vs. Cats dataset](https://www.kaggle.com/c/dogs-vs-cats/data). It consists of 25,000 labeled images of cats and dogs (12,500 images of each).
+The dataset can be downloaded from the [Kaggle Dogs vs. Cats dataset]([https://www.kaggle.com/c/dogs-vs-cats/data](https://www.kaggle.com/datasets/salader/dogs-vs-cats)). It consists of 25,000 labeled images of cats and dogs (12,500 images of each).
 
 ## Installation
 
